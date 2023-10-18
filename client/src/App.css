@@ -1,0 +1,9 @@
+.search-input{
+    border: darkgoldenrod
+}
+
+.search-input:hover {
+    /* Your hover effect styles */
+    border: #ffcb2f;
+  }
+  
